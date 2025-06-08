@@ -1,6 +1,7 @@
 ## Hi there i am Subhradip 👋
 
 🏫 Computer Science student at IEM
+😃 AI and ML Enthusiast 
 
 
 
